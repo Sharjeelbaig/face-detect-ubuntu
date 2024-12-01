@@ -46,7 +46,7 @@ MarkupSafe==2.1.5
 menuinst
 mkl-fft
 mkl-random
-mkl-service==2.4.0
+# mkl-service==2.4.0
 multidict==6.1.0
 numpy
 opencage==3.0.2
